@@ -1,0 +1,17 @@
+{
+  "Songs":[
+    {"id": 1, "name": "Rise Above This", "artist": "Seether", "album": "Finding Beauty In Negative Places"}
+    ],
+  
+  "Albums":[
+    {"id": 1, "name": "Finding Beauty In Negative Places", "songs": [1], "img": "http://www.seether-online.com/community_archive/community.seether.com/ibb/avatars/dfbaa196-3f28-4761-b5b6-71260fbe35f7.jpg"}
+    ],
+    
+  "Playlists":[
+    {}
+    ],
+  
+  "Users":[
+    {"id": 1, "name": "Mimels", "playlist":[0, 1, 2], "recommended": [0, 3, 9]} 
+    ]
+}

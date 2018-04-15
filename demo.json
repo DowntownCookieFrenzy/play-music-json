@@ -1,6 +1,6 @@
 {
   "Songs":[
-    {"id": 1, "name": "Rise Above This", "artist": "Seether", "album_id": 1}
+    {"id": 1, "name": "Rise Above This", "artist": "Seether", "duration": 3.29, "likes": 400, "dislikes": 20, "img": "http://www.seether-online.com/community_archive/community.seether.com/ibb/avatars/dfbaa196-3f28-4761-b5b6-71260fbe35f7.jpg"}
     ],
   
   "Albums":[
@@ -10,7 +10,7 @@
     ],
     
   "Playlists":[
-    {}
+    {"id": 1, "name": "My cool playlist!", "likes": 2, "dislikes": 0, "img": "http://3ipycv2ugat81cqgps20hwke-wpengine.netdna-ssl.com/wp-content/uploads/2016/04/playlist-logo-alt-1.png", "owner": "Mimels"}
     ],
   
   "Users":[

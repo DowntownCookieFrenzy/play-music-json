@@ -4,7 +4,9 @@
     ],
   
   "Albums":[
-    {"id": 1, "name": "Finding Beauty In Negative Places", "artist": "Seether", "songs": [1], "img": "http://www.seether-online.com/community_archive/community.seether.com/ibb/avatars/dfbaa196-3f28-4761-b5b6-71260fbe35f7.jpg"}
+    {"id": 1, "name": "Finding Beauty In Negative Places", "artist": "Seether", "songs": [1], "img": "http://www.seether-online.com/community_archive/community.seether.com/ibb/avatars/dfbaa196-3f28-4761-b5b6-71260fbe35f7.jpg"},
+    {"id": 2, "name": "White Noise", "artist": "Pvris", "songs": [1], "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Cover300x300.jpg/220px-Cover300x300.jpg"},
+    {"id": 3, "name": "The Head And The Heart", "artist": "The Head And The Heart", "songs": [1], "img": "https://www.austinchronicle.com/binary/1fc0/music_roundup42.jpg"},
     ],
     
   "Playlists":[

@@ -85,6 +85,12 @@
       "owner": "Mimels"
     }
   ],
+  "Artists": [
+    {
+     "id": 1,
+     "name": "PVRIS"
+    }
+    ],
   "Users": [
     {
       "id": 1,

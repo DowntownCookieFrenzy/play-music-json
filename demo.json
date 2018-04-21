@@ -88,7 +88,9 @@
   "Artists": [
     {
      "id": 1,
-     "name": "PVRIS"
+     "name": "PVRIS",
+     "about": "PVRIS is an American rock band from Lowell, Massachusetts formed by members Lynn Gunn, Alex Babinski, and Brian MacDonald. The band formed originally under the name Paris but later changed it to PVRIS in the summer of 2013 citing legal reasons. ",
+     "img": "https://pbs.twimg.com/profile_images/684428769415839744/Wq_gbeLz_400x400.jpg"
     }
     ],
   "Users": [

@@ -105,6 +105,24 @@
      "name": "PVRIS",
      "about": "PVRIS is an American rock band from Lowell, Massachusetts formed by members Lynn Gunn, Alex Babinski, and Brian MacDonald. The band formed originally under the name Paris but later changed it to PVRIS in the summer of 2013 citing legal reasons. ",
      "img": "https://pbs.twimg.com/profile_images/684428769415839744/Wq_gbeLz_400x400.jpg"
+    },
+    {
+     "id": 2,
+     "name": "Seether",
+     "about": "Seether are a South African rock band founded in May 1999 in Pretoria, Gauteng, South Africa. ",
+     "img": "http://cdn3-www.musicfeeds.com.au/assets/uploads/seether-2018-671x377.jpg"
+    },
+    {
+     "id": 3,
+     "name": "Rainbow Kitten Suprise",
+     "about": "Rainbow Kitten Surprise is an alternative/indie rock band from Boone, NC",
+     "img": "http://www.demeterclarc.com/wp-content/uploads/images/2016/01/RAINBOW-KITTEN-SURPRISE.jpg"
+    },
+    {
+     "id": 4,
+     "name": "First Aid Kit",
+     "about": "First Aid Kit is a Swedish folk duo that consists of the sisters Klara and Johanna Söderberg. When performing live, the duo are accompanied by a drummer, a pedal steel guitarist and recently a keyboard player.",
+     "img": "http://www.covermesongs.com/wp-content/uploads/2018/01/FirstAidKit-500x375.jpg"
     }
     ],
   "Users": [

@@ -3,6 +3,7 @@
     {
       "id": 1,
       "name": "Rise Above This",
+      "album": "Finding Beauty In Negative Places",
       "artist": "Seether",
       "duration": 3.29,
       "likes": 400,
@@ -12,6 +13,7 @@
     {
       "id": 14,
       "name": "Holy",
+      "album": "White Noise",
       "artist": "Pvris",
       "duration": 3.29,
       "likes": 400,
@@ -21,6 +23,7 @@
     {
       "id": 2,
       "name": "Flame",
+      "album": "White Noise",
       "artist": "Sundara Karma",
       "duration": 3.29,
       "likes": 400,
@@ -30,6 +33,7 @@
     {
       "id": 3,
       "name": "Centuries",
+      "album": "White Noise",
       "artist": "Fall Out Boy",
       "duration": 3.29,
       "likes": 400,
@@ -39,6 +43,7 @@
     {
       "id": 4,
       "name": "No Mercy",
+      "album": "White Noise",
       "artist": "Pvris",
       "duration": 3.29,
       "likes": 400,

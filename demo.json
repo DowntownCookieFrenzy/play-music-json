@@ -97,6 +97,22 @@
       "dislikes": 0,
       "img": "http://3ipycv2ugat81cqgps20hwke-wpengine.netdna-ssl.com/wp-content/uploads/2016/04/playlist-logo-alt-1.png",
       "owner": "Mimels"
+    },
+    {
+      "id": 2,
+      "name": "My chill playlist",
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://contentpl-a.akamaihd.net/images/playlists/image/medium/212784.jpg",
+      "owner": "user2"
+    },
+    {
+      "id": 3,
+      "name": "My rock playlist!",
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://contentpl-a.akamaihd.net/images/genre_moods/image/medium/Rock.jpg",
+      "owner": "Mimels"
     }
   ],
   "Artists": [

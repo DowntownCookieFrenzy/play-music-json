@@ -62,7 +62,25 @@
       "img": "http://www.seether-online.com/community_archive/community.seether.com/ibb/avatars/dfbaa196-3f28-4761-b5b6-71260fbe35f7.jpg"
     },
     {
-      "id": 1,
+      "id": 2,
+      "name": "Isolate and Medicate",
+      "artist": "Seether",
+      "songs": [
+        1
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Isolate_and_medicate_album_cover.jpg/220px-Isolate_and_medicate_album_cover.jpg
+    },
+    {
+      "id": 3,
+      "name": "Poison the Parish",
+      "artist": "Seether",
+      "songs": [
+        1
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Poisontheparish.jpg/220px-Poisontheparish.jpg"
+    },
+    {
+      "id": 4,
       "name": "All We Know of Heaven, All We Need of Hell",
       "artist": "PVRIS",
       "songs": [
@@ -71,22 +89,76 @@
       "img": "https://i5.walmartimages.ca/images/Large/766/762/6000197766762.jpg?odnBound=460"
     },
     {
-      "id": 2,
+      "id": 5,
       "name": "White Noise",
-      "artist": "Pvris",
+      "artist": "PVRIS",
       "songs": [
         1
       ],
       "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Cover300x300.jpg/220px-Cover300x300.jpg"
     },
     {
-      "id": 3,
+      "id": 6,
       "name": "The Head And The Heart",
       "artist": "The Head And The Heart",
       "songs": [
         1
       ],
       "img": "https://www.austinchronicle.com/binary/1fc0/music_roundup42.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Signs of Light",
+      "artist": "The Head And The Heart",
+      "songs": [
+        1
+      ],
+      "img": "https://img.apmcdn.org/0cc771eca351809b2c0b7bcbf55d97aad894505e/square/264b48-20160909-the-head-and-the-heart-signs-of-light.jpg"
+    },
+    {
+      "id": 8,
+      "name": "How to: Friend, Love, Freefall",
+      "artist": "Rainbow Kitten Suprise",
+      "songs": [
+        1
+      ],
+      "img": "https://image-ticketfly.imgix.net/00/02/79/54/88-og.png?w=500&h=334&fit=crop&crop=top"
+    },
+    {
+      "id": 9,
+      "name": "RKS",
+      "artist": "Rainbow Kitten Suprise",
+      "songs": [
+        1
+      ],
+      "img": "https://indieblogfest.files.wordpress.com/2017/02/img_7225.jpg?w=768&h=576&crop=1"
+    },
+    {
+      "id": 10,
+      "name": "The Lion's Roar",
+      "artist": "First Aid Kit",
+      "songs": [
+        1
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Fakthelionsroar.jpg/220px-Fakthelionsroar.jpg"
+    },
+    {
+      "id": 11,
+      "name": "The Big Black & The Blue",
+      "artist": "First Aid Kit",
+      "songs": [
+        1
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Bigblack.jpg/220px-Bigblack.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Ruins",
+      "artist": "First Aid Kit",
+      "songs": [
+        1
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Ruins_by_First_Aid_Kit.jpg/220px-Ruins_by_First_Aid_Kit.jpg"
     }
   ],
   "Playlists": [
@@ -170,7 +242,7 @@
     },
     {
      "id": 3,
-     "name": "Rainbow Kitten Suprise",
+     "name": "Rainbow Kitten Surprise",
      "about": "Rainbow Kitten Surprise is an alternative/indie rock band from Boone, NC",
      "img": "http://www.demeterclarc.com/wp-content/uploads/images/2016/01/RAINBOW-KITTEN-SURPRISE.jpg"
     },
@@ -179,6 +251,12 @@
      "name": "First Aid Kit",
      "about": "First Aid Kit is a Swedish folk duo that consists of the sisters Klara and Johanna Söderberg. When performing live, the duo are accompanied by a drummer, a pedal steel guitarist and recently a keyboard player.",
      "img": "http://www.covermesongs.com/wp-content/uploads/2018/01/FirstAidKit-500x375.jpg"
+    },
+    {
+     "id": 5,
+     "name": "The Head And The Heart",
+     "about": "The Head and the Heart is an American indie folk band. They were formed in the summer of 2009 by Josiah Johnson and Jonathan Russell. The band also includes Charity Rose Thielen, Chris Zasche, Kenny Hensley, and Tyler Williams.",
+     "img": "http://www.theheadandtheheart.com/sites/g/files/g2000005866/f/201607/mainTHATHbandimage.jpg"
     }
     ],
   "Users": [

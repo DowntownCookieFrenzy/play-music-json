@@ -2,59 +2,1469 @@
   "Songs": [
     {
       "id": 1,
-      "name": "Rise Above This",
-      "album": "Finding Beauty In Negative Places",
+      "name": "Like Suicide",
+      "album": "Finding Beauty In Negative Spaces",
       "artist": "Seether",
-      "duration": 3.29,
-      "likes": 400,
-      "dislikes": 20,
-      "img": "http://www.seether-online.com/community_archive/community.seether.com/ibb/avatars/dfbaa196-3f28-4761-b5b6-71260fbe35f7.jpg"
-    },
-    {
-      "id": 14,
-      "name": "Holy",
-      "album": "White Noise",
-      "artist": "Pvris",
-      "duration": 3.29,
-      "likes": 400,
-      "dislikes": 20,
-      "img": "https://s.hdnux.com/photos/71/60/40/15140919/5/920x1240.jpg"
+      "duration": 4.15,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Seetherfbinscover.jpg/220px-Seetherfbinscover.jpg"
     },
     {
       "id": 2,
+      "name": "Fake It",
+      "album": "Finding Beauty In Negative Spaces",
+      "artist": "Seether",
+      "duration": 3.14,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Seetherfbinscover.jpg/220px-Seetherfbinscover.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Breakdown",
+      "album": "Finding Beauty In Negative Spaces",
+      "artist": "Seether",
+      "duration": 3.29,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Seetherfbinscover.jpg/220px-Seetherfbinscover.jpg"
+    },
+    {
+      "id": 4,
+      "name": "FMLYHM",
+      "album": "Finding Beauty In Negative Spaces",
+      "artist": "Seether",
+      "duration": 3.28,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Seetherfbinscover.jpg/220px-Seetherfbinscover.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Fallen",
+      "album": "Finding Beauty In Negative Spaces",
+      "artist": "Seether",
+      "duration": 4.18,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Seetherfbinscover.jpg/220px-Seetherfbinscover.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Rise Above This",
+      "album": "Finding Beauty In Negative Spaces",
+      "artist": "Seether",
+      "duration": 3.24,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Seetherfbinscover.jpg/220px-Seetherfbinscover.jpg"
+    },
+    {
+      "id": 7,
+      "name": "No Jesus Christ",
+      "album": "Finding Beauty In Negative Spaces",
+      "artist": "Seether",
+      "duration": 7.06,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Seetherfbinscover.jpg/220px-Seetherfbinscover.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Six Gun Quota",
+      "album": "Finding Beauty In Negative Spaces",
+      "artist": "Seether",
+      "duration": 3.23,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Seetherfbinscover.jpg/220px-Seetherfbinscover.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Walk Away From the Sun",
+      "album": "Finding Beauty In Negative Spaces",
+      "artist": "Seether",
+      "duration": 4.14,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Seetherfbinscover.jpg/220px-Seetherfbinscover.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Eyes of the Devil",
+      "album": "Finding Beauty In Negative Spaces",
+      "artist": "Seether",
+      "duration": 5.01,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Seetherfbinscover.jpg/220px-Seetherfbinscover.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Don't Believe",
+      "album": "Finding Beauty In Negative Spaces",
+      "artist": "Seether",
+      "duration": 4.35,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Seetherfbinscover.jpg/220px-Seetherfbinscover.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Waste",
+      "album": "Finding Beauty In Negative Spaces",
+      "artist": "Seether",
+      "duration": 4.22,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Seetherfbinscover.jpg/220px-Seetherfbinscover.jpg"
+    },
+    {
+      "id": 13,
+      "name": "See You At The Bottom",
+      "album": "Isolate and Medicate",
+      "artist": "Seether",
+      "duration": 3.38,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Isolate_and_medicate_album_cover.jpg/220px-Isolate_and_medicate_album_cover.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Damn Same Life",
+      "album": "Isolate and Medicate",
+      "artist": "Seether",
+      "duration": 3.20,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Isolate_and_medicate_album_cover.jpg/220px-Isolate_and_medicate_album_cover.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Words as Weapons",
+      "album": "Isolate and Medicate",
+      "artist": "Seether",
+      "duration": 4.01,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Isolate_and_medicate_album_cover.jpg/220px-Isolate_and_medicate_album_cover.jpg"
+    },
+    {
+      "id": 16,
+      "name": "My Disaster",
+      "album": "Isolate and Medicate",
+      "artist": "Seether",
+      "duration": 4.34,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Isolate_and_medicate_album_cover.jpg/220px-Isolate_and_medicate_album_cover.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Crash",
+      "album": "Isolate and Medicate",
+      "artist": "Seether",
+      "duration": 3.41,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Isolate_and_medicate_album_cover.jpg/220px-Isolate_and_medicate_album_cover.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Suffer It All",
+      "album": "Isolate and Medicate",
+      "artist": "Seether",
+      "duration": 3.55,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Isolate_and_medicate_album_cover.jpg/220px-Isolate_and_medicate_album_cover.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Watch Me Drown",
+      "album": "Isolate and Medicate",
+      "artist": "Seether",
+      "duration": 3.09,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Isolate_and_medicate_album_cover.jpg/220px-Isolate_and_medicate_album_cover.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Nobody Praying for Me",
+      "album": "Isolate and Medicate",
+      "artist": "Seether",
+      "duration": 3.18,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Isolate_and_medicate_album_cover.jpg/220px-Isolate_and_medicate_album_cover.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Keep The Dogs At Bay",
+      "album": "Isolate and Medicate",
+      "artist": "Seether",
+      "duration": 4.25,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Isolate_and_medicate_album_cover.jpg/220px-Isolate_and_medicate_album_cover.jpg"
+    },
+    {
+      "id": 21,
+      "name": "Save Today",
+      "album": "Isolate and Medicate",
+      "artist": "Seether",
+      "duration": 4.47,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Isolate_and_medicate_album_cover.jpg/220px-Isolate_and_medicate_album_cover.jpg"
+    },
+    {
+      "id": 22,
+      "name": "Stoke the Fire",
+      "album": "Poison the Parish",
+      "artist": "Seether",
+      "duration": 3.44,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Poisontheparish.jpg/220px-Poisontheparish.jpg"
+    },
+    {
+      "id": 23,
+      "name": "Betray and Degrade",
+      "album": "Poison the Parish",
+      "artist": "Seether",
+      "duration": 4.04,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Poisontheparish.jpg/220px-Poisontheparish.jpg"
+    },
+    {
+      "id": 24,
+      "name": "Something Else",
+      "album": "Poison the Parish",
+      "artist": "Seether",
+      "duration": 3.42,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Poisontheparish.jpg/220px-Poisontheparish.jpg"
+    },
+    {
+      "id": 25,
+      "name": "I'll survive",
+      "album": "Poison the Parish",
+      "artist": "Seether",
+      "duration": 3.38,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Poisontheparish.jpg/220px-Poisontheparish.jpg"
+    },
+    {
+      "id": 26,
+      "name": "Let You Down",
+      "album": "Poison the Parish",
+      "artist": "Seether",
+      "duration": 4.10,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Poisontheparish.jpg/220px-Poisontheparish.jpg"
+    },
+    {
+      "id": 27,
+      "name": "Against the Wall",
+      "album": "Poison the Parish",
+      "artist": "Seether",
+      "duration": 3.50,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Poisontheparish.jpg/220px-Poisontheparish.jpg"
+    },
+    {
+      "id": 28,
+      "name": "Let Me Heal",
+      "album": "Poison the Parish",
+      "artist": "Seether",
+      "duration": 3.52,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Poisontheparish.jpg/220px-Poisontheparish.jpg"
+    },
+    {
+      "id": 29,
+      "name": "Saviours",
+      "album": "Poison the Parish",
+      "artist": "Seether",
+      "duration": 3.22,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Poisontheparish.jpg/220px-Poisontheparish.jpg"
+    },
+    {
+      "id": 30,
+      "name": "Nothing Left",
+      "album": "Poison the Parish",
+      "artist": "Seether",
+      "duration": 3.36,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Poisontheparish.jpg/220px-Poisontheparish.jpg"
+    },
+    {
+      "id": 31,
+      "name": "Count Me Out",
+      "album": "Poison the Parish",
+      "artist": "Seether",
+      "duration": 3.50,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Poisontheparish.jpg/220px-Poisontheparish.jpg"
+    },
+    {
+      "id": 32,
+      "name": "Emotionless",
+      "album": "Poison the Parish",
+      "artist": "Seether",
+      "duration": 5.21,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Poisontheparish.jpg/220px-Poisontheparish.jpg"
+    },
+    {
+      "id": 33,
+      "name": "Sell My Soul",
+      "album": "Poison the Parish",
+      "artist": "Seether",
+      "duration": 4.17,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Poisontheparish.jpg/220px-Poisontheparish.jpg"
+    },
+    {
+      "id": 34,
+      "name": "Feels Like Dying",
+      "album": "Poison the Parish",
+      "artist": "Seether",
+      "duration": 4.03,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Poisontheparish.jpg/220px-Poisontheparish.jpg"
+    },
+    {
+      "id": 35,
+      "name": "Misunderstood",
+      "album": "Poison the Parish",
+      "artist": "Seether",
+      "duration": 3.47,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Poisontheparish.jpg/220px-Poisontheparish.jpg"
+    },
+    {
+      "id": 36,
+      "name": "Take a Minute",
+      "album": "Poison the Parish",
+      "artist": "Seether",
+      "duration": 4.29,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Poisontheparish.jpg/220px-Poisontheparish.jpg"
+    },
+    {
+      "id": 37,
+      "name": "Smoke",
+      "album": "White Noise",
+      "artist": "PVRIS",
+      "duration": 3.05,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/PVRIS_White_Noise.jpg/220px-PVRIS_White_Noise.jpg"
+    },
+    {
+      "id": 38,
+      "name": "St. Patrick",
+      "album": "White Noise",
+      "artist": "PVRIS",
+      "duration": 4.21,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/PVRIS_White_Noise.jpg/220px-PVRIS_White_Noise.jpg"
+    },
+    {
+      "id": 39,
+      "name": "My House",
+      "album": "White Noise",
+      "artist": "PVRIS",
+      "duration": 4.03,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/PVRIS_White_Noise.jpg/220px-PVRIS_White_Noise.jpg"
+    },
+    {
+      "id": 40,
+      "name": "Holy",
+      "album": "White Noise",
+      "artist": "PVRIS",
+      "duration": 4.56,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/PVRIS_White_Noise.jpg/220px-PVRIS_White_Noise.jpg"
+    },
+    {
+      "id": 41,
+      "name": "White Noise",
+      "album": "White Noise",
+      "artist": "PVRIS",
+      "duration": 4.22,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/PVRIS_White_Noise.jpg/220px-PVRIS_White_Noise.jpg"
+    },
+    {
+      "id": 42,
+      "name": "Fire",
+      "album": "White Noise",
+      "artist": "PVRIS",
+      "duration": 3.49,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/PVRIS_White_Noise.jpg/220px-PVRIS_White_Noise.jpg"
+    },
+    {
+      "id": 43,
+      "name": "Eyelids",
+      "album": "White Noise",
+      "artist": "PVRIS",
+      "duration": 5.07,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/PVRIS_White_Noise.jpg/220px-PVRIS_White_Noise.jpg"
+    },
+    {
+      "id": 44,
+      "name": "Mirrors",
+      "album": "White Noise",
+      "artist": "PVRIS",
+      "duration": 3.24,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/PVRIS_White_Noise.jpg/220px-PVRIS_White_Noise.jpg"
+    },
+    {
+      "id": 45,
+      "name": "Ghosts",
+      "album": "White Noise",
+      "artist": "PVRIS",
+      "duration": 3.40,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/PVRIS_White_Noise.jpg/220px-PVRIS_White_Noise.jpg"
+    },
+    {
+      "id": 46,
+      "name": "Let Them In",
+      "album": "White Noise",
+      "artist": "PVRIS",
+      "duration": 3.32,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/PVRIS_White_Noise.jpg/220px-PVRIS_White_Noise.jpg"
+    },
+    {
+      "id": 47,
+      "name": "Heaven",
+      "album": "All We Know of Heaven, All We Need of Hell",
+      "artist": "PVRIS",
+      "duration": 4.14,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/PVRIS_-_AWKOHAWNOH.png/220px-PVRIS_-_AWKOHAWNOH.png"
+    },
+    {
+      "id": 48,
+      "name": "Half",
+      "album": "All We Know of Heaven, All We Need of Hell",
+      "artist": "PVRIS",
+      "duration": 4.29,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/PVRIS_-_AWKOHAWNOH.png/220px-PVRIS_-_AWKOHAWNOH.png"
+    },
+    {
+      "id": 49,
+      "name": "Anyone Else",
+      "album": "All We Know of Heaven, All We Need of Hell",
+      "artist": "PVRIS",
+      "duration": 4.36,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/PVRIS_-_AWKOHAWNOH.png/220px-PVRIS_-_AWKOHAWNOH.png"
+    },
+    {
+      "id": 50,
+      "name": "What's Wrong",
+      "album": "All We Know of Heaven, All We Need of Hell",
+      "artist": "PVRIS",
+      "duration": 4.58,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/PVRIS_-_AWKOHAWNOH.png/220px-PVRIS_-_AWKOHAWNOH.png"
+    },
+    {
+      "id": 51,
+      "name": "Walk Alone",
+      "album": "All We Know of Heaven, All We Need of Hell",
+      "artist": "PVRIS",
+      "duration": 5.13,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/PVRIS_-_AWKOHAWNOH.png/220px-PVRIS_-_AWKOHAWNOH.png"
+    },
+    {
+      "id": 52,
+      "name": "Same Soul",
+      "album": "All We Know of Heaven, All We Need of Hell",
+      "artist": "PVRIS",
+      "duration": 3.47,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/PVRIS_-_AWKOHAWNOH.png/220px-PVRIS_-_AWKOHAWNOH.png"
+    },
+    {
+      "id": 53,
+      "name": "Winter",
+      "album": "All We Know of Heaven, All We Need of Hell",
+      "artist": "PVRIS",
+      "duration": 3.47,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/PVRIS_-_AWKOHAWNOH.png/220px-PVRIS_-_AWKOHAWNOH.png"
+    },
+    {
+      "id": 54,
+      "name": "No Mercy",
+      "album": "All We Know of Heaven, All We Need of Hell",
+      "artist": "PVRIS",
+      "duration": 3.59,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/PVRIS_-_AWKOHAWNOH.png/220px-PVRIS_-_AWKOHAWNOH.png"
+    },
+    {
+      "id": 55,
+      "name": "Separate",
+      "album": "All We Know of Heaven, All We Need of Hell",
+      "artist": "PVRIS",
+      "duration": 4.19,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/PVRIS_-_AWKOHAWNOH.png/220px-PVRIS_-_AWKOHAWNOH.png"
+    },
+    {
+      "id": 56,
+      "name": "Nola 1",
+      "album": "All We Know of Heaven, All We Need of Hell",
+      "artist": "PVRIS",
+      "duration": 3.39,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/PVRIS_-_AWKOHAWNOH.png/220px-PVRIS_-_AWKOHAWNOH.png"
+    },
+    {
+      "id": 57,
+      "name": "Cats and Dogs",
+      "album": "The Head and the Heart",
+      "artist": "The Head and the Heart",
+      "duration": 1.55,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Thehandonheart-LPcover.jpg/220px-Thehandonheart-LPcover.jpg"
+    },
+    {
+      "id": 58,
+      "name": "Coeur D'Alene",
+      "album": "The Head and the Heart",
+      "artist": "The Head and the Heart",
+      "duration": 4.21,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Thehandonheart-LPcover.jpg/220px-Thehandonheart-LPcover.jpg"
+    },
+    {
+      "id": 59,
+      "name": "Ghosts",
+      "album": "The Head and the Heart",
+      "artist": "The Head and the Heart",
+      "duration": 4.18,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Thehandonheart-LPcover.jpg/220px-Thehandonheart-LPcover.jpg"
+    },
+    {
+      "id": 60,
+      "name": "Down in the Valley",
+      "album": "The Head and the Heart",
+      "artist": "The Head and the Heart",
+      "duration": 5.03,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Thehandonheart-LPcover.jpg/220px-Thehandonheart-LPcover.jpg"
+    },
+    {
+      "id": 61,
+      "name": "Rivers and Roads",
+      "album": "The Head and the Heart",
+      "artist": "The Head and the Heart",
+      "duration": 4.44,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Thehandonheart-LPcover.jpg/220px-Thehandonheart-LPcover.jpg"
+    },
+    {
+      "id": 62,
+      "name": "Honey Come Home",
+      "album": "The Head and the Heart",
+      "artist": "The Head and the Heart",
+      "duration": 3.21,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Thehandonheart-LPcover.jpg/220px-Thehandonheart-LPcover.jpg"
+    },
+    {
+      "id": 63,
+      "name": "Lost in My Mind",
+      "album": "The Head and the Heart",
+      "artist": "The Head and the Heart",
+      "duration": 4.19,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Thehandonheart-LPcover.jpg/220px-Thehandonheart-LPcover.jpg"
+    },
+    {
+      "id": 64,
+      "name": "Winter Song",
+      "album": "The Head and the Heart",
+      "artist": "The Head and the Heart",
+      "duration": 2.43,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Thehandonheart-LPcover.jpg/220px-Thehandonheart-LPcover.jpg"
+    },
+    {
+      "id": 65,
+      "name": "Sounds Like Hallelujah",
+      "album": "The Head and the Heart",
+      "artist": "The Head and the Heart",
+      "duration": 3.10,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Thehandonheart-LPcover.jpg/220px-Thehandonheart-LPcover.jpg"
+    },
+    {
+      "id": 66,
+      "name": "All We Ever Knew",
+      "album": "Signs of Light",
+      "artist": "The Head and the Heart",
+      "duration": 3.46,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/7/70/SignsofLight.jpg/220px-SignsofLight.jpg"
+    },
+    {
+      "id": 67,
+      "name": "City of Angels",
+      "album": "Signs of Light",
+      "artist": "The Head and the Heart",
+      "duration": 3.57,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/7/70/SignsofLight.jpg/220px-SignsofLight.jpg"
+    },
+    {
+      "id": 68,
+      "name": "Rhythm & Blues",
+      "album": "Signs of Light",
+      "artist": "The Head and the Heart",
+      "duration": 4.00,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/7/70/SignsofLight.jpg/220px-SignsofLight.jpg"
+    },
+    {
+      "id": 69,
+      "name": "False Alarm",
+      "album": "Signs of Light",
+      "artist": "The Head and the Heart",
+      "duration": 4.08,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/7/70/SignsofLight.jpg/220px-SignsofLight.jpg"
+    },
+    {
+      "id": 70,
+      "name": "Dreamer",
+      "album": "Signs of Light",
+      "artist": "The Head and the Heart",
+      "duration": 3.13,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/7/70/SignsofLight.jpg/220px-SignsofLight.jpg"
+    },
+    {
+      "id": 71,
+      "name": "Library Magic",
+      "album": "Signs of Light",
+      "artist": "The Head and the Heart",
+      "duration": 3.14,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/7/70/SignsofLight.jpg/220px-SignsofLight.jpg"
+    },
+    {
+      "id": 72,
+      "name": "Turn It Around",
+      "album": "Signs of Light",
+      "artist": "The Head and the Heart",
+      "duration": 3.43,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/7/70/SignsofLight.jpg/220px-SignsofLight.jpg"
+    },
+    {
+      "id": 73,
+      "name": "Colors",
+      "album": "Signs of Light",
+      "artist": "The Head and the Heart",
+      "duration": 4.12,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/7/70/SignsofLight.jpg/220px-SignsofLight.jpg"
+    },
+    {
+      "id": 74,
+      "name": "Take a Walk",
+      "album": "Signs of Light",
+      "artist": "The Head and the Heart",
+      "duration": 3.41,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/7/70/SignsofLight.jpg/220px-SignsofLight.jpg"
+    },
+    {
+      "id": 75,
+      "name": "Oh My Dear",
+      "album": "Signs of Light",
+      "artist": "The Head and the Heart",
+      "duration": 2.26,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/7/70/SignsofLight.jpg/220px-SignsofLight.jpg"
+    },
+    {
+      "id": 76,
+      "name": "I Don't Mind",
+      "album": "Signs of Light",
+      "artist": "The Head and the Heart",
+      "duration": 2.34,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/7/70/SignsofLight.jpg/220px-SignsofLight.jpg"
+    },
+    {
+      "id": 77,
+      "name": "Your Mother's Eyes",
+      "album": "Signs of Light",
+      "artist": "The Head and the Heart",
+      "duration": 4.10,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/7/70/SignsofLight.jpg/220px-SignsofLight.jpg"
+    },
+    {
+      "id": 78,
+      "name": "Signs of Light",
+      "album": "Signs of Light",
+      "artist": "The Head and the Heart",
+      "duration": 6.09,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/7/70/SignsofLight.jpg/220px-SignsofLight.jpg"
+    },
+    {
+      "id": 79,
+      "name": "Pacific Love",
+      "album": "How to: Friend, Love, Freefall",
+      "artist": "Rainbow Kitten Surprise",
+      "duration": 0.24,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://image-ticketfly.imgix.net/00/02/79/54/88-og.png?w=500&h=334&fit=crop&crop=top"
+    },
+    {
+      "id": 80,
+      "name": "Mission to Mars",
+      "album": "How to: Friend, Love, Freefall",
+      "artist": "Rainbow Kitten Surprise",
+      "duration": 2.34,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://image-ticketfly.imgix.net/00/02/79/54/88-og.png?w=500&h=334&fit=crop&crop=top"
+    },
+    {
+      "id": 81,
+      "name": "Fever Pitch",
+      "album": "How to: Friend, Love, Freefall",
+      "artist": "Rainbow Kitten Surprise",
+      "duration": 2.44,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://image-ticketfly.imgix.net/00/02/79/54/88-og.png?w=500&h=334&fit=crop&crop=top"
+    },
+    {
+      "id": 82,
+      "name": "It's Called: Freefall",
+      "album": "How to: Friend, Love, Freefall",
+      "artist": "Rainbow Kitten Surprise",
+      "duration": 2.32,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://image-ticketfly.imgix.net/00/02/79/54/88-og.png?w=500&h=334&fit=crop&crop=top"
+    },
+    {
+      "id": 83,
+      "name": "Holy War",
+      "album": "How to: Friend, Love, Freefall",
+      "artist": "Rainbow Kitten Surprise",
+      "duration": 2.54,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://image-ticketfly.imgix.net/00/02/79/54/88-og.png?w=500&h=334&fit=crop&crop=top"
+    },
+    {
+      "id": 84,
+      "name": "Matchbox",
+      "album": "How to: Friend, Love, Freefall",
+      "artist": "Rainbow Kitten Surprise",
+      "duration": 2.52,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://image-ticketfly.imgix.net/00/02/79/54/88-og.png?w=500&h=334&fit=crop&crop=top"
+    },
+    {
+      "id": 85,
+      "name": "Moody Orange",
+      "album": "How to: Friend, Love, Freefall",
+      "artist": "Rainbow Kitten Surprise",
+      "duration": 3.17,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://image-ticketfly.imgix.net/00/02/79/54/88-og.png?w=500&h=334&fit=crop&crop=top"
+    },
+    {
+      "id": 86,
+      "name": "Hide",
+      "album": "How to: Friend, Love, Freefall",
+      "artist": "Rainbow Kitten Surprise",
+      "duration": 3.12,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://image-ticketfly.imgix.net/00/02/79/54/88-og.png?w=500&h=334&fit=crop&crop=top"
+    },
+    {
+      "id": 87,
+      "name": "When It Lands",
+      "album": "How to: Friend, Love, Freefall",
+      "artist": "Rainbow Kitten Surprise",
+      "duration": 4.29,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://image-ticketfly.imgix.net/00/02/79/54/88-og.png?w=500&h=334&fit=crop&crop=top"
+    },
+    {
+      "id": 88,
+      "name": "Painkillers",
+      "album": "How to: Friend, Love, Freefall",
+      "artist": "Rainbow Kitten Surprise",
+      "duration": 3.34,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://image-ticketfly.imgix.net/00/02/79/54/88-og.png?w=500&h=334&fit=crop&crop=top"
+    },
+    {
+      "id": 89,
+      "name": "Recktify",
+      "album": "How to: Friend, Love, Freefall",
+      "artist": "Rainbow Kitten Surprise",
+      "duration": 1.49,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://image-ticketfly.imgix.net/00/02/79/54/88-og.png?w=500&h=334&fit=crop&crop=top"
+    },
+    {
+      "id": 90,
+      "name": "Possum Queen",
+      "album": "How to: Friend, Love, Freefall",
+      "artist": "Rainbow Kitten Surprise",
+      "duration": 2.08,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://image-ticketfly.imgix.net/00/02/79/54/88-og.png?w=500&h=334&fit=crop&crop=top"
+    },
+    {
+      "id": 91,
+      "name": "Polite Company",
+      "album": "How to: Friend, Love, Freefall",
+      "artist": "Rainbow Kitten Surprise",
+      "duration": 4.02,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://image-ticketfly.imgix.net/00/02/79/54/88-og.png?w=500&h=334&fit=crop&crop=top"
+    },
+    {
+      "id": 92,
+      "name": "Run",
+      "album": "RKS",
+      "artist": "Rainbow Kitten Surprise",
+      "duration": 3.17,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://indieblogfest.files.wordpress.com/2017/02/img_7225.jpg?w=768&h=576&crop=1"
+    },
+    {
+      "id": 93,
+      "name": "Counting Cards",
+      "album": "RKS",
+      "artist": "Rainbow Kitten Surprise",
+      "duration": 3.17,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://indieblogfest.files.wordpress.com/2017/02/img_7225.jpg?w=768&h=576&crop=1"
+    },
+    {
+      "id": 94,
+      "name": "Wasted",
+      "album": "RKS",
+      "artist": "Rainbow Kitten Surprise",
+      "duration": 3.17,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://indieblogfest.files.wordpress.com/2017/02/img_7225.jpg?w=768&h=576&crop=1"
+    },
+    {
+      "id": 95,
+      "name": "Cold Love",
+      "album": "RKS",
+      "artist": "Rainbow Kitten Surprise",
+      "duration": 3.17,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://indieblogfest.files.wordpress.com/2017/02/img_7225.jpg?w=768&h=576&crop=1"
+    },
+    {
+      "id": 96,
+      "name": "Lady Lie",
+      "album": "RKS",
+      "artist": "Rainbow Kitten Surprise",
+      "duration": 3.17,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://indieblogfest.files.wordpress.com/2017/02/img_7225.jpg?w=768&h=576&crop=1"
+    },
+    {
+      "id": 97,
+      "name": "American Shoes",
+      "album": "RKS",
+      "artist": "Rainbow Kitten Surprise",
+      "duration": 3.17,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://indieblogfest.files.wordpress.com/2017/02/img_7225.jpg?w=768&h=576&crop=1"
+    },
+    {
+      "id": 98,
+      "name": "Cocaine Jesus",
+      "album": "RKS",
+      "artist": "Rainbow Kitten Surprise",
+      "duration": 3.17,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://indieblogfest.files.wordpress.com/2017/02/img_7225.jpg?w=768&h=576&crop=1"
+    },
+    {
+      "id": 99,
+      "name": "Bare Bones",
+      "album": "RKS",
+      "artist": "Rainbow Kitten Surprise",
+      "duration": 3.17,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://indieblogfest.files.wordpress.com/2017/02/img_7225.jpg?w=768&h=576&crop=1"
+    },
+    {
+      "id": 100,
+      "name": "Goodnight Chicago",
+      "album": "RKS",
+      "artist": "Rainbow Kitten Surprise",
+      "duration": 3.17,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://indieblogfest.files.wordpress.com/2017/02/img_7225.jpg?w=768&h=576&crop=1"
+    },
+    {
+      "id": 101,
+      "name": "All's well that Ends",
+      "album": "RKS",
+      "artist": "Rainbow Kitten Surprise",
+      "duration": 3.17,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://indieblogfest.files.wordpress.com/2017/02/img_7225.jpg?w=768&h=576&crop=1"
+    },
+    {
+      "id": 102,
+      "name": "The Comedown",
+      "album": "RKS",
+      "artist": "Rainbow Kitten Surprise",
+      "duration": 3.17,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://indieblogfest.files.wordpress.com/2017/02/img_7225.jpg?w=768&h=576&crop=1"
+    },
+    {
+      "id": 103,
+      "name": "The Lion's Roar",
+      "album": "The Lion's Roar",
+      "artist": "First Aid Kit",
+      "duration": 5.07,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Fakthelionsroar.jpg/220px-Fakthelionsroar.jpg"
+    },
+    {
+      "id": 104,
+      "name": "Emmylou",
+      "album": "The Lion's Roar",
+      "artist": "First Aid Kit",
+      "duration": 4.18,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Fakthelionsroar.jpg/220px-Fakthelionsroar.jpg"
+    },
+    {
+      "id": 105,
+      "name": "In the Hearts of Men",
+      "album": "The Lion's Roar",
+      "artist": "First Aid Kit",
+      "duration": 4.13,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Fakthelionsroar.jpg/220px-Fakthelionsroar.jpg"
+    },
+    {
+      "id": 104,
+      "name": "Blue",
+      "album": "The Lion's Roar",
+      "artist": "First Aid Kit",
+      "duration": 3.12,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Fakthelionsroar.jpg/220px-Fakthelionsroar.jpg"
+    },
+    {
+      "id": 105,
+      "name": "This Old Routine",
+      "album": "The Lion's Roar",
+      "artist": "First Aid Kit",
+      "duration": 4.24,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Fakthelionsroar.jpg/220px-Fakthelionsroar.jpg"
+    },
+    {
+      "id": 106,
+      "name": "To a Poet",
+      "album": "The Lion's Roar",
+      "artist": "First Aid Kit",
+      "duration": 5.44,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Fakthelionsroar.jpg/220px-Fakthelionsroar.jpg"
+    },
+    {
+      "id": 107,
+      "name": "I Found a Way",
+      "album": "The Lion's Roar",
+      "artist": "First Aid Kit",
+      "duration": 4.13,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Fakthelionsroar.jpg/220px-Fakthelionsroar.jpg"
+    },
+    {
+      "id": 108,
+      "name": "Dance to Another Tune",
+      "album": "The Lion's Roar",
+      "artist": "First Aid Kit",
+      "duration": 4.50,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Fakthelionsroar.jpg/220px-Fakthelionsroar.jpg"
+    },
+    {
+      "id": 109,
+      "name": "New Year's Eve",
+      "album": "The Lion's Roar",
+      "artist": "First Aid Kit",
+      "duration": 3.07,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Fakthelionsroar.jpg/220px-Fakthelionsroar.jpg"
+    },
+    {
+      "id": 110,
+      "name": "King of the World",
+      "album": "The Lion's Roar",
+      "artist": "First Aid Kit",
+      "duration": 3.39,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Fakthelionsroar.jpg/220px-Fakthelionsroar.jpg"
+    },
+    {
+      "id": 111,
+      "name": "Wolf",
+      "album": "The Lion's Roar",
+      "artist": "First Aid Kit",
+      "duration": 3.40,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Fakthelionsroar.jpg/220px-Fakthelionsroar.jpg"
+    },
+    {
+      "id": 112,
+      "name": "Rebel Heart",
+      "album": "Ruins",
+      "artist": "First Aid Kit",
+      "duration": 5.24,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Ruins_by_First_Aid_Kit.jpg/220px-Ruins_by_First_Aid_Kit.jpg"
+    },
+    {
+      "id": 113,
+      "name": "It's a Shame",
+      "album": "Ruins",
+      "artist": "First Aid Kit",
+      "duration": 3.59,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Ruins_by_First_Aid_Kit.jpg/220px-Ruins_by_First_Aid_Kit.jpg"
+    },
+    {
+      "id": 114,
+      "name": "Fireworks",
+      "album": "Ruins",
+      "artist": "First Aid Kit",
+      "duration": 4.15,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Ruins_by_First_Aid_Kit.jpg/220px-Ruins_by_First_Aid_Kit.jpg"
+    },
+    {
+      "id": 115,
+      "name": "Postcard",
+      "album": "Ruins",
+      "artist": "First Aid Kit",
+      "duration": 3.47,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Ruins_by_First_Aid_Kit.jpg/220px-Ruins_by_First_Aid_Kit.jpg"
+    },
+    {
+      "id": 116,
+      "name": "To Live a Life",
+      "album": "Ruins",
+      "artist": "First Aid Kit",
+      "duration": 3.13,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Ruins_by_First_Aid_Kit.jpg/220px-Ruins_by_First_Aid_Kit.jpg"
+    },
+    {
+      "id": 117,
+      "name": "My Wild Sweet Love",
+      "album": "Ruins",
+      "artist": "First Aid Kit",
+      "duration": 3.55,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Ruins_by_First_Aid_Kit.jpg/220px-Ruins_by_First_Aid_Kit.jpg"
+    },
+    {
+      "id": 118,
+      "name": "Distant Star",
+      "album": "Ruins",
+      "artist": "First Aid Kit",
+      "duration": 3.09,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Ruins_by_First_Aid_Kit.jpg/220px-Ruins_by_First_Aid_Kit.jpg"
+    },
+    {
+      "id": 119,
+      "name": "Ruins",
+      "album": "Ruins",
+      "artist": "First Aid Kit",
+      "duration": 3.32,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Ruins_by_First_Aid_Kit.jpg/220px-Ruins_by_First_Aid_Kit.jpg"
+    },
+    {
+      "id": 120,
+      "name": "Hem of Her Dress",
+      "album": "Ruins",
+      "artist": "First Aid Kit",
+      "duration": 3.24,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Ruins_by_First_Aid_Kit.jpg/220px-Ruins_by_First_Aid_Kit.jpg"
+    },
+    {
+      "id": 121,
+      "name": "Nothing Has to Be True",
+      "album": "Ruins",
+      "artist": "First Aid Kit",
+      "duration": 5.01,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Ruins_by_First_Aid_Kit.jpg/220px-Ruins_by_First_Aid_Kit.jpg"
+    },
+    {
+      "id": 122,
+      "name": "In The Morning",
+      "album": "The Big Black & The Blue",
+      "artist": "First Aid Kit",
+      "duration": 2.36,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Bigblack.jpg/220px-Bigblack.jpg"
+    },
+    {
+      "id": 123,
+      "name": "Hard Believer",
+      "album": "The Big Black & The Blue",
+      "artist": "First Aid Kit",
+      "duration": 3.41,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Bigblack.jpg/220px-Bigblack.jpg"
+    },
+    {
+      "id": 124,
+      "name": "Sailor Song",
+      "album": "The Big Black & The Blue",
+      "artist": "First Aid Kit",
+      "duration": 2.44,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Bigblack.jpg/220px-Bigblack.jpg"
+    },
+    {
+      "id": 125,
+      "name": "Waltz for Richard",
+      "album": "The Big Black & The Blue",
+      "artist": "First Aid Kit",
+      "duration": 2.49,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Bigblack.jpg/220px-Bigblack.jpg"
+    },
+    {
+      "id": 126,
+      "name": "Heavy Storm",
+      "album": "The Big Black & The Blue",
+      "artist": "First Aid Kit",
+      "duration": 3.22,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Bigblack.jpg/220px-Bigblack.jpg"
+    },
+    {
+      "id": 127,
+      "name": "Ghost Town",
+      "album": "The Big Black & The Blue",
+      "artist": "First Aid Kit",
+      "duration": 4.47,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Bigblack.jpg/220px-Bigblack.jpg"
+    },
+    {
+      "id": 128,
+      "name": "Josefin",
+      "album": "The Big Black & The Blue",
+      "artist": "First Aid Kit",
+      "duration": 3.32,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Bigblack.jpg/220px-Bigblack.jpg"
+    },
+    {
+      "id": 129,
+      "name": "A Window Opens",
+      "album": "The Big Black & The Blue",
+      "artist": "First Aid Kit",
+      "duration": 4.21,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Bigblack.jpg/220px-Bigblack.jpg"
+    },
+    {
+      "id": 130,
+      "name": "Winter Is All Over You",
+      "album": "The Big Black & The Blue",
+      "artist": "First Aid Kit",
+      "duration": 3.40,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Bigblack.jpg/220px-Bigblack.jpg"
+    },
+    {
+      "id": 131,
+      "name": "I Met Up With the King",
+      "album": "The Big Black & The Blue",
+      "artist": "First Aid Kit",
+      "duration": 2.49,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Bigblack.jpg/220px-Bigblack.jpg"
+    },
+    {
+      "id": 132,
+      "name": "Wills of the River",
+      "album": "The Big Black & The Blue",
+      "artist": "First Aid Kit",
+      "duration": 4.19,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Bigblack.jpg/220px-Bigblack.jpg"
+    },
+    {
+      "id": 133,
+      "name": "I'm Building Myself a Boat",
+      "album": "The Big Black & The Blue",
+      "artist": "First Aid Kit",
+      "duration": 3.23,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Bigblack.jpg/220px-Bigblack.jpg"
+    },
+    {
+      "id": 134,
+      "name": "Little Moon",
+      "album": "The Big Black & The Blue",
+      "artist": "First Aid Kit",
+      "duration": 3.52,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Bigblack.jpg/220px-Bigblack.jpg"
+    },
+    {
+      "id": 135,
+      "name": "You're Not Coming Home Tonight",
+      "album": "The Big Black & The Blue",
+      "artist": "First Aid Kit",
+      "duration": 2.30,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Bigblack.jpg/220px-Bigblack.jpg"
+    },
+    {
+      "id": 136,
+      "name": "Tangerine",
+      "album": "The Big Black & The Blue",
+      "artist": "First Aid Kit",
+      "duration": 3.12,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Bigblack.jpg/220px-Bigblack.jpg"
+    },
+    {
+      "id": 137,
+      "name": "Jagadamba, You Might",
+      "album": "The Big Black & The Blue",
+      "artist": "First Aid Kit",
+      "duration": 3.46,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Bigblack.jpg/220px-Bigblack.jpg"
+    },
+    {
+      "id": 138,
+      "name": "Our Own Pretty Ways",
+      "album": "The Big Black & The Blue",
+      "artist": "First Aid Kit",
+      "duration": 3.27,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Bigblack.jpg/220px-Bigblack.jpg"
+    },
+    {
+      "id": 139,
+      "name": "Pervigilo",
+      "album": "The Big Black & The Blue",
+      "artist": "First Aid Kit",
+      "duration": 5.33,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Bigblack.jpg/220px-Bigblack.jpg"
+    },
+    {
+      "id": 140,
+      "name": "Cross Oceans",
+      "album": "The Big Black & The Blue",
+      "artist": "First Aid Kit",
+      "duration": 2.50,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Bigblack.jpg/220px-Bigblack.jpg"
+    },
+    {
+      "id": 141,
+      "name": "Tiger Mountain Peasant Song",
+      "album": "The Big Black & The Blue",
+      "artist": "First Aid Kit",
+      "duration": 3.03,
+      "likes": 0,
+      "dislikes": 0,
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Bigblack.jpg/220px-Bigblack.jpg"
+    },
+    {
+      "id": 99,
       "name": "Flame",
       "album": "STUB",
       "artist": "Sundara Karma",
       "duration": 3.29,
-      "likes": 400,
-      "dislikes": 20,
+      "likes": 0,
+      "dislikes": 0,
       "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqZWjDJmFyT0urXq7MS9Zs5e4o7427l_7OekeWA9kU9IP1DwZV"
     },
     {
-      "id": 3,
+      "id": 100,
       "name": "Centuries",
       "album": "STUB",
       "artist": "Fall Out Boy",
       "duration": 3.29,
-      "likes": 400,
-      "dislikes": 20,
+      "likes": 0,
+      "dislikes": 0,
       "img": "https://www.punknews.org/images/bands/falloutboy-1411043554.jpg"
-    },
-    {
-      "id": 4,
-      "name": "No Mercy",
-      "album": "White Noise",
-      "artist": "Pvris",
-      "duration": 3.29,
-      "likes": 400,
-      "dislikes": 20,
-      "img": "http://ksassets.timeincuk.net/wp/uploads/sites/55/2017/05/GettyImages-678875392_pvris_tour_tickets_1000-920x584.jpg"
     }
   ],
   "Albums": [
     {
       "id": 1,
-      "name": "Finding Beauty In Negative Places",
+      "name": "Finding Beauty In Negative Spaces",
       "artist": "Seether",
       "songs": [
         1
@@ -99,8 +1509,8 @@
     },
     {
       "id": 6,
-      "name": "The Head And The Heart",
-      "artist": "The Head And The Heart",
+      "name": "The Head and the Heart",
+      "artist": "The Head and the Heart",
       "songs": [
         1
       ],
@@ -109,7 +1519,7 @@
     {
       "id": 7,
       "name": "Signs of Light",
-      "artist": "The Head And The Heart",
+      "artist": "The Head and the Heart",
       "songs": [
         1
       ],
@@ -254,7 +1664,7 @@
     },
     {
      "id": 5,
-     "name": "The Head And The Heart",
+     "name": "The Head and the Heart",
      "about": "The Head and the Heart is an American indie folk band. They were formed in the summer of 2009 by Josiah Johnson and Jonathan Russell. The band also includes Charity Rose Thielen, Chris Zasche, Kenny Hensley, and Tyler Williams.",
      "img": "http://www.theheadandtheheart.com/sites/g/files/g2000005866/f/201607/mainTHATHbandimage.jpg"
     }

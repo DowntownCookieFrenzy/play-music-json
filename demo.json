@@ -277,7 +277,7 @@
     }
   ],
   "Music": [
-    { "id": 1, "url": "http://cdn.mos.musicradar.com/audio/samples/eighties-demo-loops/K06LeadSyn93A-05.mp3"},
-    { "id": 2, "url": "http://cdn.mos.musicradar.com/audio/samples/eighties-demo-loops/K05Pad126C-01.mp3"}
+    { "id": "Rise Above This", "url": "http://cdn.mos.musicradar.com/audio/samples/eighties-demo-loops/K06LeadSyn93A-05.mp3"},
+    { "id": "Holy", "url": "http://cdn.mos.musicradar.com/audio/samples/eighties-demo-loops/K05Pad126C-01.mp3"}
     ]
 }
